@@ -6,3 +6,12 @@ body{
     color: aliceblue;
     text-align: center;
 }
+img{
+    border-radius: 5%;
+}
+p{
+    font-size: 25px;
+}
+.pic{
+    width: 800px;
+}
