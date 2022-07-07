@@ -2,16 +2,23 @@
     font-family: 'Times New Roman';
 }
 body{
-    background-color: darkblue;
+    background-color: goldenrod;
     color: aliceblue;
     text-align: center;
-}
-img{
-    border-radius: 5%;
 }
 p{
     font-size: 25px;
 }
-.pic{
+#pic{
     width: 800px;
+    border-radius: 5%;
+}
+.contact{
+    text-align: right;
+}
+.contact iframe{
+    width:  100%;
+}
+i{
+    color: aliceblue;
 }
